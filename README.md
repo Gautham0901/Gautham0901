@@ -19,7 +19,7 @@ I'm Gautham, a developer who loves building meaningful and practical solutions.
 I enjoy working on AI, automation, and modern web applications.
 If an idea excites me, I’ll build it, refine it, and ship it.
 
-My main stack includes Python, JavaScript, Flask, HTML/CSS, and tools like VS Code, Git, and SQLite.
+My main stack includes Python, Java, Flask, HTML/CSS, and tools like VS Code, Git, and SQLite.
 
 I’m currently working on a bunch of cool projects — including AI agents, recommendation systems, and campus-utility platforms.
 
