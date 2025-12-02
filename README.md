@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-I'm Bgk, a developer who loves building meaningful and practical solutions.
+I'm Gautham, a developer who loves building meaningful and practical solutions.
 
 I enjoy working on AI, automation, and modern web applications.
 If an idea excites me, I’ll build it, refine it, and ship it.
