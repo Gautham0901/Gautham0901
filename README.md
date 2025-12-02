@@ -14,3 +14,19 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Bgk, a developer who loves building meaningful and practical solutions.
+
+I enjoy working on AI, automation, and modern web applications.
+If an idea excites me, I’ll build it, refine it, and ship it.
+
+My main stack includes Python, JavaScript, Flask, HTML/CSS, and tools like VS Code, Git, and SQLite.
+
+I’m currently working on a bunch of cool projects — including AI agents, recommendation systems, and campus-utility platforms.
+
+If you’d like to connect or collaborate, feel free to reach out!
+
+## 📫 How to reach me
+
+Email: gauthamkrishna0901@gmail.com
+
+LinkedIn: www.linkedin.com/in/gauthambgk
