@@ -17,13 +17,13 @@ Here are some ideas to get you started:
 I'm Gautham, a developer who loves building meaningful and practical solutions.
 
 I enjoy working on AI, automation, and modern web applications.
-If an idea excites me, I’ll build it, refine it, and ship it.
 
 My main stack includes Python, Java, Flask, HTML/CSS, and tools like VS Code, Git, and SQLite.
 
-I’m currently working on a bunch of cool projects — including AI agents, recommendation systems, and campus-utility platforms.
+I’m currently working on a Integrating GenAI in Mainframe SDLC, Legacy system converisons and Learning Mainframe and Multi agent orchestration.
 
-If you’d like to connect or collaborate, feel free to reach out!
+My previous bunch of cool projects — AI agents, recommendation systems, and campus-utility platforms.
+
 
 ## 📫 How to reach me
 
