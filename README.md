@@ -18,9 +18,9 @@ I'm Gautham, a developer who loves building meaningful and practical solutions.
 
 I enjoy working on AI, automation, and modern web applications.
 
-My main stack includes Python, Java, Flask, HTML/CSS, and tools like VS Code, Git, and SQLite.
+My stack includes Python, Java, Flask, HTML/CSS, and tools like VS Code, Claude etc.,
 
-I’m currently working on a Integrating GenAI in Mainframe SDLC, Legacy system converisons and Learning Mainframe and Multi agent orchestration.
+I’m currently working on a Integrating GenAI in Mainframe SDLC and Learning Mainframe and Multi agent orchestration.
 
 My previous bunch of cool projects — AI agents, recommendation systems, and campus-utility platforms.
 
